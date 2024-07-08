@@ -1,9 +1,10 @@
-github.com/boombuler/barcode v1.0.0 h1:s1TvRnXwL2xJRaccrdcBQMZxq6X7DvsMogtmJeHDdrc=
 github.com/boombuler/barcode v1.0.0/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
+github.com/boombuler/barcode v1.0.2 h1:79yrbttoZrLGkL/oOI8hBrUKucwOL0oOjUgEguGMcJ4=
+github.com/boombuler/barcode v1.0.2/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/draftboardco/gofpdi v1.1.0 h1:MCgDTtblJvxOCZqPRDyFmA8GkW7wGdsx/yvAXQC1DIM=
-github.com/draftboardco/gofpdi v1.1.0/go.mod h1:NOxiIDMbwPr+3RbZjoK/kackV29Fl36XCaQkH2dKhfs=
+github.com/draftboardco/gofpdi v1.1.1 h1:TtuSmt3Q9XAQ9pgx7hQOjKs6CQKHSs9rWbwgGWSxRVk=
+github.com/draftboardco/gofpdi v1.1.1/go.mod h1:NOxiIDMbwPr+3RbZjoK/kackV29Fl36XCaQkH2dKhfs=
 github.com/jung-kurt/gofpdf v1.0.0/go.mod h1:7Id9E/uU8ce6rXgefFLlgrJj/GYY22cpxn+r32jIOes=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
